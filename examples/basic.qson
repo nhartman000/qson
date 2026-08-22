@@ -1,0 +1,26 @@
+{
+  "qson_version": "1.0",
+  "run_id": "run-001",
+  "events": [
+    {
+      "trace_id": "trace-000001",
+      "run_id": "run-001",
+      "sequence": 1,
+      "event_type": "gate_attempt",
+      "file_id": "example.object-eligibility.001",
+      "gate_id": "object_confidence",
+      "input_state_id": "state-0001",
+      "result": "PASS",
+      "action": "continue",
+      "output_state_id": "state-0002",
+      "actor": {
+        "type": "runtime",
+        "id": "mg8-runtime"
+      },
+      "timestamp": "2026-08-22T05:00:00Z",
+      "metadata": {
+        "description": "Minimal realized gate-execution event"
+      }
+    }
+  ]
+}
