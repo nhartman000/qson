@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "qson (MG8 family): qson is .qson file format stands for queriable structured ordered notation and is an audit log of the mg8 file structure responses and gate passes from .g8son files"
+authors:
+  - given-names: Nicholas C.
+    family-names: Hartman
+    affiliation: American Milestone Inc
+repository-code: "https://github.com/nhartman000/qson"
+license: MIT
+keywords:
+  - deterministic AI
+  - MG8
+  - NYCH
+  - high-assurance AI
