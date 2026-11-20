@@ -120,3 +120,7 @@ QSON is the runtime trace artifact; it is not itself the complete TCTA algebra.
 ## Status
 
 This repository establishes the generic QSON trace contract. Domain-specific evidence payloads, cryptographic sealing, storage engines, retention policies, and external notarization belong to explicit profiles rather than being assumed by the base format.
+
+## License
+
+Copyright (c) 2026 American Milestone Inc. All rights reserved. Original code and independently authored specifications are publicly viewable for evaluation only — see [LICENSE](LICENSE). Copies obtained earlier under the previous MIT license keep the rights that license granted.
